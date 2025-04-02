@@ -1,0 +1,33 @@
+# Acuerdo de Licencia de Usuario Final (EULA)
+
+Este Acuerdo de Licencia de Usuario Final ("EULA") es un acuerdo legal entre usted (en adelante, "Usuario") y el autor del software (en adelante, "Desarrollador") para el uso del programa "DDoS Tool" (en adelante, "Software").
+
+## 1. Concesión de Licencia
+El Desarrollador le otorga al Usuario una licencia no exclusiva, intransferible y revocable para utilizar este Software exclusivamente para fines personales y educativos. No se otorgan derechos adicionales sobre el Software.
+
+## 2. Restricciones
+El Usuario **NO** puede, bajo ninguna circunstancia:
+- Modificar, descompilar, realizar ingeniería inversa o alterar el Software.
+- Distribuir, vender, alquilar o sublicenciar el Software a terceros.
+- Utilizar el Software con fines ilegales o en sistemas que no sean de su propiedad.
+- Compartir copias del Software sin el consentimiento expreso del Desarrollador.
+
+## 3. Propiedad Intelectual
+El Software y todos sus componentes, incluyendo código fuente, interfaz gráfica, imágenes y documentación, son propiedad exclusiva del Desarrollador. Este EULA no transfiere ningún derecho de propiedad intelectual al Usuario.
+
+## 4. Limitación de Responsabilidad
+El Software se proporciona "TAL CUAL", sin garantías de ningún tipo. El Desarrollador no será responsable de ningún daño, pérdida o perjuicio derivado del uso o la imposibilidad de uso del Software.
+
+## 5. Terminación
+Este acuerdo será válido hasta su terminación. El Desarrollador puede revocar la licencia en cualquier momento si el Usuario incumple alguna de las condiciones establecidas en este documento.
+
+## 6. Ley Aplicable
+Este EULA se rige por las leyes del país de residencia del Desarrollador. Cualquier disputa será resuelta en los tribunales de dicha jurisdicción.
+
+## 7. Contacto
+Para cualquier consulta sobre este acuerdo, contacte al Desarrollador.
+
+---
+
+Al descargar, instalar o usar el Software, el Usuario acepta los términos de este EULA. Si no está de acuerdo con estos términos, no debe utilizar el Software.
+
