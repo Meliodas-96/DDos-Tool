@@ -36,5 +36,6 @@ Si prefieres ejecutar el código fuente, necesitas:
      ```
 
 ## Capturas de Pantalla
-_(Agrega aquí imágenes de la interfaz)_
+![Interfaz principal](https://github.com/Meliodas-96/DDos-Tool/blob/main/Test%20Images/Interfaz%20Principal%20y%20con%20Guia.png?raw=true)
+
 
